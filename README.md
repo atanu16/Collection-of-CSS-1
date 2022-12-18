@@ -9,5 +9,8 @@
 3.Ply-core <br>
 <img align="center" src="https://user-images.githubusercontent.com/83860778/208319111-90b37bc4-e713-4ddd-90eb-48caf89c616f.gif">
 
+4.Dark-Light Mode
+<img align="center" src="https://i.ibb.co/CvypBtm/2022-12-19-02-32-48.gif">
+
 
 
