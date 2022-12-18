@@ -17,7 +17,10 @@
 
 6.Hover
 <img align="center" src="https://i.ibb.co/h7sGYc9/2022-12-19-02-39-24.gif">
-https://ibb.co/YR250XQ
+
+7.Btn
+<img align="center" src="https://i.ibb.co/b5ytP3S/2022-12-19-02-44-09.gif">
+
 
 
 
