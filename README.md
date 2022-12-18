@@ -7,7 +7,7 @@
 <img align="center" src="https://i.ibb.co/4StQC7Y/2022-12-19-02-18-29.gif">
 
 3.Ply-core <br>
-<img align="center" src="https://i.ibb.co/Bc3zcg3/2022-12-19-02-20-01.gif">
+<img align="center" src="https://i.ibb.co/vzFF7Qp/2022-12-19-02-26-23.gif">
 
 
 
